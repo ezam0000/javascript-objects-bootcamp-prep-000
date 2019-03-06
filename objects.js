@@ -1,5 +1,5 @@
 var Slowdive = {
-  nirvana:'smells',
+  'My Bloody Valentine':'',
   greenday:'american'
 }
 
