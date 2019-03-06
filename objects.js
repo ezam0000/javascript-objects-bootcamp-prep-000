@@ -1,4 +1,4 @@
-var playlist = {
+var Slowdive = {
   nirvana:'smells',
   greenday:'american'
 }
