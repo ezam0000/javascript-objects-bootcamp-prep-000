@@ -1,3 +1,6 @@
 var playlist =
-{'artist':'song'}
-Function
+{'artistName':'songTitle'}
+
+Function updatePlaylist(playlist,artistName,songTitle){
+  
+}
