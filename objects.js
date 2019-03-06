@@ -1,6 +1,8 @@
+var playlist = {
+  nirvana:'smells',
+  greenday:'american'
+}
 
-var meals = {
-  breakfast: 'oatmeal',
-  lunch: 'burrito',
-  dinner: 'steak'
+function updatePlaylist(playlist,nirvana,smells){
+  return Object.assign ({},playlist,{[nirvana]:smells})
 }
