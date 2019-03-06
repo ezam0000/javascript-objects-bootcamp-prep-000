@@ -1,4 +1,5 @@
 var playlist={
-  'nirvana':"smells"
-  'greenday':'american"'}
+  'nirvana':'smells'
+  'greenDay':'american'
   
+}
